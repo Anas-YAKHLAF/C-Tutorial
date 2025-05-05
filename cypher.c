@@ -9,7 +9,7 @@ int main(int argc, string argv[])
 {
     if (argc != 2)
     {
-        printf("missing command line ! \n");
+        printf("missing one command line ! \n");
         return 1;
     }
     else
